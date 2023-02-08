@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX course
+0x00. Shell, basics
